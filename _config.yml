@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ruoxiang Li"
 title_separator          : "-"
 name                     : &name "Ruoxiang Li"
-description              : &description "Postgraduate at the National University of Defense Technology"
+description              : &description "PhD candidate, City University of Hong Kong"
 url                      : https://ruoxianglee.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ruoxianglee/ruoxianglee.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Ruoxiang Li"
   avatar           : "ruoxianglee.jpg"
-  bio              : "M.A. student at the National University of Defense Technology, China. Focusing on visual SLAM and event-based vision methods."
-  location         : "Changsha, China"
+  bio              : "PhD candidate, City University of Hong Kong."
+  location         : "Hong Kong"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=kJI9NMUAAAAJ"
-  email            : "ruoxianglee@163.com"
+  email            : "ruoxiang.li@my.cityu.edu.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
