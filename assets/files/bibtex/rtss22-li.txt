@@ -1,0 +1,8 @@
+@inproceedings{li2022worst,
+  title={Worst-Case Time Disparity Analysis of Message Synchronization in ROS},
+  author={Li, Ruoxiang and Guan, Nan and Jiang, Xu and Guo, Zhishan and Dong, Zheng and Lv, Mingsong},
+  booktitle={2022 IEEE Real-Time Systems Symposium (RTSS)},
+  pages={40--52},
+  year={2022},
+  organization={IEEE}
+}

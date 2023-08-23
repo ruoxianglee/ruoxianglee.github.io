@@ -1,0 +1,8 @@
+@inproceedings{li2023modeling,
+  title={Modeling and Property Analysis of the Message Synchronization Policy in ROS},
+  author={Li, Ruoxiang and Dong, Zheng and Wu, Jen-Ming and Xue, Chun Jason and Guan, Nan},
+  booktitle={2023 IEEE International Conference on Mobility, Operations, Services and Technologies (MOST)},
+  pages={71--82},
+  year={2023},
+  organization={IEEE}
+}

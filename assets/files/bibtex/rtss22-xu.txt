@@ -1,0 +1,8 @@
+@inproceedings{jiang2022real,
+  title={Real-time scheduling and analysis of processing chains on multi-threaded executor in ros 2},
+  author={Jiang, Xu and Ji, Dong and Guan, Nan and Li, Ruoxiang and Tang, Yue and Wang, Yi},
+  booktitle={2022 IEEE Real-Time Systems Symposium (RTSS)},
+  pages={27--39},
+  year={2022},
+  organization={IEEE}
+}

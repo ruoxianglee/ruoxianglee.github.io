@@ -1,8 +1,12 @@
 # Basic Information 
-title: Your Name
+title: Ruoxiang Li
 position: Ph.D. Student
-affiliation: Your Affiliation
-email: yourname (at) example.edu
+affiliation: City University of Hong Kong
+subaffiliation: Department of Computer Science
+affiliation_link: https://www.cityu.edu.hk/
+subaffiliation_link: https://www.cs.cityu.edu.hk/
+email: ruoxiang.li (at) my.cityu.edu.hk
+address: 83 Tat Chee Avenuw, Kowloon, Hong Kong
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
@@ -12,15 +16,16 @@ canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-google_scholar: https://scholar.google.com/
-cv_link: assets/files/curriculum_vitae.pdf
-github_link: https://github.com/
-linkedin: https://www.linkedin.com/
-twitter: https://twitter.com/
+google_scholar: https://scholar.google.com/citations?user=kJI9NMUAAAAJ&hl=en
+dblp_url: https://dblp.org/pid/231/1167.html
+cv_link: assets/files/ruoxiang.pdf
+github_link: https://github.com/ruoxianglee
+# linkedin: TBD
+# twitter: TBD
 
 # Images (e.g., your profile picture and your website's favicon) 
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/avatar.png
+avatar: ./assets/img/avatar.jpg
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 

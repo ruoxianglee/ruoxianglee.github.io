@@ -1,22 +1,40 @@
 main:
 
-  - title: Continual Learning for Abdominal Multi-Organ and Tumor Segmentation
-    authors: Yixiao Zhang, Xinyi Li, Huimiao Chen, Alan Yuille, <strong>Yaoyao Liu*</strong>, Zongwei Zhou* (*Corresponding authors)
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    code: https://github.com/MrGiovanni/ContinualLearning
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/teaser_example_2.png
-    notes: Early Accept
+  - title: Worst-Case Latency Analysis of Message Synchronization in ROS
+    authors: <strong>Ruoxiang Li</strong>, Xu Jiang, Zheng Dong, Jen-Ming Wu, Chun Jason Xue, Nan Guan
+    conference_short: RTSS
+    conference: IEEE Real-Time Systems Symposium <strong>(RTSS)</strong>, 2023.
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9984711
+    # bibtex: assets/files/bibtex/rtss23.txt
+    notes: Accepted
+    
+  - title: Modeling and Property Analysis of the Message Synchronization Policy in ROS
+    authors: <strong>Ruoxiang Li</strong>, Zheng Dong, Jen-Ming Wu, Chun Jason Xue, Nan Guan
+    conference_short: MOST
+    conference: "IEEE International Conference on Mobility: Operations, Services, and Technologies <strong>(MOST)</strong>, 2023."
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10210800
+    bibtex: assets/files/bibtex/most23.txt
+    notes: Best Paper Runner-Up, Oral Presentation
 
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference_short: CVPR
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+  - title: "ROSGM: A Real-Time GPU Management Framework with Plug-In Policies for ROS 2"
+    authors: <strong>Ruoxiang Li</strong>, Tao Hu, Xu Jiang, Laiwen Li, Wenxuan Xing, Qingxu Deng, Nan Guan
+    conference_short: RTAS
+    conference: IEEE Real-Time and Embedded Technology and Applications Symposium <strong>(RTAS)</strong>, 2023.
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10155690
+    bibtex: assets/files/bibtex/rtas23.txt
     notes: Oral Presentation
-    image: ./assets/img/teaser_example.png
+
+  - title: Worst-Case Time Disparity Analysis of Message Synchronization in ROS
+    authors: <strong>Ruoxiang Li</strong>, Nan Guan, Xu Jiang, Zhishan Guo, Zheng Dong, Mingsong Lv
+    conference_short: RTSS
+    conference: IEEE Real-Time Systems Symposium <strong>(RTSS)</strong>, 2022.
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9984711
+    bibtex: assets/files/bibtex/rtss22-li.txt
+    code: https://github.com/ruoxianglee/synchronizer
+
+  - title: Real-Time Scheduling and Analysis of Processing Chains on Multi-threaded Executor in ROS 2
+    authors: Xu Jiang, Dong Ji, Nan Guan, <strong>Ruoxiang Li</strong>, Yue Tang, Yi Wang
+    conference_short: RTSS
+    conference: IEEE Real-Time Systems Symposium <strong>(RTSS)</strong>, 2022.
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9984791
+    bibtex: assets/files/bibtex/rtss22-xu.txt

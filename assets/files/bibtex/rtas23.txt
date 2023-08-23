@@ -1,0 +1,8 @@
+@inproceedings{li2023rosgm,
+  title={ROSGM: A Real-Time GPU Management Framework with Plug-In Policies for ROS 2},
+  author={Li, Ruoxiang and Hu, Tao and Jiang, Xu and Li, Laiwen and Xing, Wenxuan and Deng, Qingxu and Guan, Nan},
+  booktitle={2023 IEEE 29th Real-Time and Embedded Technology and Applications Symposium (RTAS)},
+  pages={93--105},
+  year={2023},
+  organization={IEEE}
+}
