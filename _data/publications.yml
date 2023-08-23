@@ -4,7 +4,7 @@ main:
     authors: <strong>Ruoxiang Li</strong>, Xu Jiang, Zheng Dong, Jen-Ming Wu, Chun Jason Xue, Nan Guan
     conference_short: RTSS
     conference: IEEE Real-Time Systems Symposium <strong>(RTSS)</strong>, 2023.
-    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9984711
+    # pdf: 
     # bibtex: assets/files/bibtex/rtss23.txt
     notes: Accepted
     
