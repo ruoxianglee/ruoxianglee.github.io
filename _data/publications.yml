@@ -1,7 +1,7 @@
 main:
 
   - title: Worst-Case Latency Analysis of Message Synchronization in ROS
-    authors: <strong>Ruoxiang Li</strong>, Xu Jiang, Zheng Dong, Jen-Ming Wu, Chun Jason Xue, Nan Guan
+    authors: <u><strong>Ruoxiang Li</strong></u>, Xu Jiang, Zheng Dong, Jen-Ming Wu, Chun Jason Xue, Nan Guan
     conference_short: RTSS
     conference: IEEE Real-Time Systems Symposium <strong>(RTSS)</strong>, 2023.
     # pdf: 
@@ -9,7 +9,7 @@ main:
     notes: Accepted
     
   - title: Modeling and Property Analysis of the Message Synchronization Policy in ROS
-    authors: <strong>Ruoxiang Li</strong>, Zheng Dong, Jen-Ming Wu, Chun Jason Xue, Nan Guan
+    authors: <u><strong>Ruoxiang Li</strong></u>, Zheng Dong, Jen-Ming Wu, Chun Jason Xue, Nan Guan
     conference_short: MOST
     conference: "IEEE International Conference on Mobility: Operations, Services, and Technologies <strong>(MOST)</strong>, 2023."
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10210800
@@ -17,7 +17,7 @@ main:
     notes: Best Paper Runner-Up, Oral Presentation
 
   - title: "ROSGM: A Real-Time GPU Management Framework with Plug-In Policies for ROS 2"
-    authors: <strong>Ruoxiang Li</strong>, Tao Hu, Xu Jiang, Laiwen Li, Wenxuan Xing, Qingxu Deng, Nan Guan
+    authors: <u><strong>Ruoxiang Li</strong></u>, Tao Hu, Xu Jiang, Laiwen Li, Wenxuan Xing, Qingxu Deng, Nan Guan
     conference_short: RTAS
     conference: IEEE Real-Time and Embedded Technology and Applications Symposium <strong>(RTAS)</strong>, 2023.
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10155690
@@ -25,7 +25,7 @@ main:
     notes: Oral Presentation
 
   - title: Worst-Case Time Disparity Analysis of Message Synchronization in ROS
-    authors: <strong>Ruoxiang Li</strong>, Nan Guan, Xu Jiang, Zhishan Guo, Zheng Dong, Mingsong Lv
+    authors: <u><strong>Ruoxiang Li</strong></u>, Nan Guan, Xu Jiang, Zhishan Guo, Zheng Dong, Mingsong Lv
     conference_short: RTSS
     conference: IEEE Real-Time Systems Symposium <strong>(RTSS)</strong>, 2022.
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9984711
@@ -33,7 +33,7 @@ main:
     code: https://github.com/ruoxianglee/synchronizer
 
   - title: Real-Time Scheduling and Analysis of Processing Chains on Multi-threaded Executor in ROS 2
-    authors: Xu Jiang, Dong Ji, Nan Guan, <strong>Ruoxiang Li</strong>, Yue Tang, Yi Wang
+    authors: Xu Jiang, Dong Ji, Nan Guan, <u><strong>Ruoxiang Li</strong></u>, Yue Tang, Yi Wang
     conference_short: RTSS
     conference: IEEE Real-Time Systems Symposium <strong>(RTSS)</strong>, 2022.
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9984791
