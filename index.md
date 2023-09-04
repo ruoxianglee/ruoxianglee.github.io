@@ -9,17 +9,15 @@ I'm a CS PhD student at <a href="https://mlab.hk/" target="_blank"> CityU Memory
 ## Research Interests
 
 - **Robot Operating System**
-- **Real-time Systems**
 - **Autonomous Driving Systems**
+- **Real-time Systems**
 
-## News
-
-- **[Aug. 2023]** Our paper is accepted to RTSS 2023.
+{% include_relative _includes/news.md %}
 
 {% include_relative _includes/publications.md %}
-
-{% include_relative _includes/awards.md %}
 
 {% include_relative _includes/services.md %}
 
 {% include_relative _includes/teaching.md %}
+
+{% include_relative _includes/awards.md %}
