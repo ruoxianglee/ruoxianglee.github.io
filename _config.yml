@@ -10,9 +10,9 @@ address: 83 Tat Chee Avenuw, Kowloon, Hong Kong
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: ruoxiang li, li ruoxiang, liruoxiang, ruoxiangli, ruoxianglee
+description: Ruoxiang Li is a phd candidate at City University of Hong Kong. His research lies in real-time problems in robot operating system and autonomous driving systems.
+canonical: https://ruoxianglee.github.io
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
@@ -43,7 +43,7 @@ font: "Serif" # or "Sans Serif"
 
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
-google_analytics: UA-111540567-4
+# google_analytics: G-4WXWCPXQF1
 
 # Use this project as a remote theme for GitHub Pages
 # See the guide here: https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-a-theme-to-your-github-pages-site-using-jekyll
