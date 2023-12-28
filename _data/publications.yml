@@ -4,9 +4,10 @@ main:
     authors: <u><strong>Ruoxiang Li</strong></u>, Xu Jiang, Zheng Dong, Jen-Ming Wu, Chun Jason Xue, Nan Guan
     conference_short: RTSS
     conference: IEEE Real-Time Systems Symposium <strong>(RTSS)</strong>, 2023.
-    # pdf: 
-    # bibtex: assets/files/bibtex/rtss23.txt
-    notes: Accepted
+    pdf: assets/files/papers/rtss2023.pdf
+    slides: assets/files/slides/rtss2023.pptx
+    bibtex: assets/files/bibtex/rtss23.txt
+    notes: Oral Presentation
     
   - title: Modeling and Property Analysis of the Message Synchronization Policy in ROS
     authors: <u><strong>Ruoxiang Li</strong></u>, Zheng Dong, Jen-Ming Wu, Chun Jason Xue, Nan Guan
