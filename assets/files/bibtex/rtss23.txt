@@ -2,6 +2,7 @@
   title={Worst-Case Latency Analysis of Message Synchronization in ROS},
   author={Li, Ruoxiang and Jiang, Xu and Dong, Zheng and Wu, Jen-Ming and Xue, Chun Jason and Guan, Nan},
   booktitle={2023 IEEE Real-Time Systems Symposium (RTSS)},
+  pages={185--197},
   year={2023},
   organization={IEEE}
 }
