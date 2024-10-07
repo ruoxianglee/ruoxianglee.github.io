@@ -1,5 +1,15 @@
 main:
 
+  - title: Modelling and Analysis of the LatestTime Message Synchronization Policy in ROS
+    authors: Chenhao Wu, <u><strong>Ruoxiang Li</strong></u>, Naijun Zhan and Nan Guan
+    conference_short: EMSOFT
+    conference: International Conference on Embedded Software <strong>(EMSOFT)</strong>, 2024.
+
+  - title: Improving the Reaction Latency Analysis of Message Synchronization in ROS
+    authors: Chenhao Wu, <u><strong>Ruoxiang Li</strong></u>, Naijun Zhan and Nan Guan
+    conference_short: RTCSA
+    conference: IEEE International Conference on Embedded and Real-Time Computing Systems and Application <strong>(RTCSA)</strong>, 2024.
+
   - title: Worst-Case Latency Analysis of Message Synchronization in ROS
     authors: <u><strong>Ruoxiang Li</strong></u>, Xu Jiang, Zheng Dong, Jen-Ming Wu, Chun Jason Xue, Nan Guan
     conference_short: RTSS
